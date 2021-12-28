@@ -31,6 +31,7 @@ The main goal of this project was to investigate, what impact different approach
 After having tested over 70 different constellations on three different data sets of acted speech (see list below) it can be reported, that within this given setting excluding the temporal bias from the training process significantly improves the performance of the model on two of the three datasets <sup>[1](#fn1)</sup>, while no indications for an improvement of inter-corporal generalization ability could be found. The latter could be related to the different nature and size of the corpora and the trade-offs that had to be made during the visualization process in order to establish comparability between the different data sets. Yet these findings are promising and worth further investigations in a setting of natural speech and with a much greater sample size. 
 
 ![result](img/cm_RAVDESS_raw.png)
+Performance improvement on RAVDESS_audio_only data set by applying *method 4* in combination with preprocessing techniques.)
 
 ---
 
